@@ -6,12 +6,12 @@
 Summary:	A Python client for redis
 Summary(pl.UTF-8):	Pythonowy klient usługi redis
 Name:		python3-%{module}
-Version:	7.2.0
+Version:	8.1.0
 Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	https://files.pythonhosted.org/packages/source/r/redis/redis-%{version}.tar.gz
-# Source0-md5:	04813e9cdfc93a8f263e0a83e13e25bf
+# Source0-md5:	582678e33dbcaaabc7b0e54acd99632f
 URL:		https://github.com/redis/redis-py
 BuildRequires:	python3-build
 BuildRequires:	python3-hatchling
